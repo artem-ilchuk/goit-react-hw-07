@@ -1,0 +1,6 @@
+.loader {
+  display: flex;
+  flex-direction: column;
+  padding-left: 80px;
+  padding-top: 100px;
+}

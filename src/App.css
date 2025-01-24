@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  padding: 15px;
+  background-image: url("./assets/Leonardo_Phoenix_10_Image_features_a_minimalist_and_modern_sty_3.jpg");
+  height: 740px;
+}
+.app-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.left-panel {
+  flex: 1;
+  max-width: 24%;
+}
+
+.right-panel {
+  flex: 2;
+  max-width: 76%;
+}
